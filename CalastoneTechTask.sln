@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalastoneTechTask", "CalastoneTechTask\CalastoneTechTask.csproj", "{349C0933-236A-4928-BEFF-4DB298CC7065}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalastoneTechTaskTests", "CalastoneTechTaskTests\CalastoneTechTaskTests.csproj", "{F918B7FE-1B30-4452-A0A1-3DA88FAAC40E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{349C0933-236A-4928-BEFF-4DB298CC7065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{349C0933-236A-4928-BEFF-4DB298CC7065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{349C0933-236A-4928-BEFF-4DB298CC7065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{349C0933-236A-4928-BEFF-4DB298CC7065}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F918B7FE-1B30-4452-A0A1-3DA88FAAC40E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F918B7FE-1B30-4452-A0A1-3DA88FAAC40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F918B7FE-1B30-4452-A0A1-3DA88FAAC40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F918B7FE-1B30-4452-A0A1-3DA88FAAC40E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53EDB65E-00B4-4E13-A464-C5E58C0F45D5}
+	EndGlobalSection
+EndGlobal
